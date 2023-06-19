@@ -13,7 +13,7 @@ add dependency to your `pubspec.yaml` file
 ```yaml
 
 dependencies:
-  number_to_indian_words: ^1.0.0
+  number_to_indian_words: ^1.0.1
 
 ```
 
