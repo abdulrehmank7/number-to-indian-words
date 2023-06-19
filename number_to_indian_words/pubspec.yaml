@@ -1,7 +1,7 @@
 name: number_to_indian_words
 description: Convert numbers to word formate in indian style.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+version: 1.0.1
+repository: https://github.com/abdulrehmank7/number-to-indian-words
 
 environment:
   sdk: '>=2.19.2 <4.0.0'
